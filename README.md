@@ -33,9 +33,17 @@ var response = "Ashwin said, "Yes Sir!""; As much as you may want to consider gr
 
 /*
  * 4. Build a pizza object by using all three object creation method, it must has at least 4 properties
- 
-
- */
+        */
+        function () pizza = {
+        type: " Vegetable"
+        price: " $15 "
+        size: "Small"
+        shape: "Circular",
+        pizzaType : function() {
+       return this.type + " " + this.size;
+    }
+    }
+        }
 
 /*
  *  5. Build a Animal object by using object constructor function, and add at least two method to prototype,
