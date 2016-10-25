@@ -33,6 +33,8 @@ var response = "Ashwin said, "Yes Sir!""; As much as you may want to consider gr
 
 /*
  * 4. Build a pizza object by using all three object creation method, it must has at least 4 properties
+ 
+
  */
 
 /*
@@ -42,11 +44,14 @@ var response = "Ashwin said, "Yes Sir!""; As much as you may want to consider gr
 
 /*
  * 6. Write a small menu selection function by using if-else and switch, input number, output name of your order
+            
  */
 
 /*
  * 7. var studentScores = [50, 67, 80, 90, 100, 30, 88, 68]; write a program by using studentScores array ,for loop and conditions.
-  for 
+  for (var i = 0; i < studentScore; i++1) {
+      console.log(studentScore[i]);
+  }
  */
 
 /*
