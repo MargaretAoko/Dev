@@ -22,7 +22,8 @@ var greeting  =  'It's nice to me you today!'; When assigning variables in javas
   var greeting = " It's nice to me you today"
   But it advieable to use single quotes always.
   
-var response = "Ashwin said, "Yes Sir!""; Double quoting is n
+var response = "Ashwin said, "Yes Sir!""; As much as you may want to consider grammar javascripts detects the how you use your quotes to when writing strings. For this case it will only excute "Ashwin," because the string is closed there. In order to excute the whole string this how to write it.
+  var response = "Ashwin said, Yes Sir!";
 
 
 /*
@@ -45,6 +46,7 @@ var response = "Ashwin said, "Yes Sir!""; Double quoting is n
 
 /*
  * 7. var studentScores = [50, 67, 80, 90, 100, 30, 88, 68]; write a program by using studentScores array ,for loop and conditions.
+  for 
  */
 
 /*
