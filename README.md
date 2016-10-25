@@ -2,11 +2,20 @@
  * 1. Are the following variable valid? If it is not please explain it and correct them using the best practise
  */
 
-var 1stCar = 'Doge'; 
-var var = 'variable';
-var first name = 'Jerry'; JavaScript uses camelCase for identifier names of variables and functions.
-var Sch00lName = 'MEST';
-var totalnumber = 100;
+var 1stCar = 'Doge'; Javascript uses camelcase for identifying names of variables and function the identifier name here is valid cause it's camelCase.
+  
+var var = 'variable'; The variable tag var has been assigned twice. It should be only one.
+  var = 'Variable';
+
+var first name = 'Jerry';
+  JavaScript uses camelCase for identifying names of variables and functions. 
+  Var firstName = 'Jerry';
+ 
+var Sch00lName = 'MEST'; the variable name Sch00LName has digit '0' instade of letter 'o' then it's invalid because it's not camelCase it starts with caps 'S'.
+  var schoolName = 'Jerry';
+
+var totalnumber = 100; variable name is not camelCase.
+  var totalNumber = 100;
 
 /*
  * 2. Are the following variable valid? If it is not please explain it and correct them by using the best practise
