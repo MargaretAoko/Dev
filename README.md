@@ -1,6 +1,4 @@
-#/*
- * 1. Are the following variable valid? If it is not please explain it and correct them using the best practise
- */
+*1. Are the following variable valid? If it is not please explain it and correct them using the best practise
 
 var 1stCar = 'Doge'; Javascript uses camelcase for identifying names of variables and function the identifier name here is valid cause it's camelCase.
   
@@ -20,12 +18,15 @@ var totalnumber = 100; variable name is not camelCase.
 /*
  * 2. Are the following variable valid? If it is not please explain it and correct them by using the best practise
  */
-var greeting  =  'It's nice to me you today!';
-var response = "Ashwin said, "Yes Sir!"";
+var greeting  =  'It's nice to me you today!'; When assigning variables in javascript you use single '' or double "" in this variable, javascrpt will detect the first single quotes of the string and only excute that. To avoid this when assiging variable to a string you can use double quotes for this case: 
+  var greeting = " It's nice to me you today"
+  But it advieable to use single quotes always.
+  
+var response = "Ashwin said, "Yes Sir!""; Double quoting is n
 
 
 /*
- * 3. Try 0.3 + 0.1 === 0.4, explain what happen here
+ * 3. Try 0.3 + 0.1 === 0.4, explain what happen here: Checks if both side are equale to each other.
  */
 
 
